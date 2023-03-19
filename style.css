@@ -1,0 +1,22 @@
+body {
+    margin: 0;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    
+}
+canvas {
+    display: block;
+}
+
+header {
+    background-color: white;
+    margin: 5px;
+    border-radius: 10px;
+    display: flex;
+    justify-content: center;
+    padding: -20px;
+}
+
+h1 {
+    padding: -10px;
+    text-align: center;
+}
